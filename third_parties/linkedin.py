@@ -11,9 +11,8 @@ def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = True):
     edIn profile"""
 
     if mock:
-        print("------------- inside mock of srcapin response")
-        linkedin_profile_url = "https://raw.githubusercontent.com/rajuankilla/ai-agents/refs/heads/main/rajireddy-scrapin.json"
-        # linkedin_profile_url = "https://gist.githubusercontent.com/emarco177/859ec7d786b45d8e3e3f688c6c9139d8/raw/32f3c85b9513994c572613f2c8b376b633bfc43f/eden-marco-scrapin.json"
+        print("------------- mock of srcapin response instead of calling direct API, with mock: bool = True")
+        linkedin_profile_url = "https://raw.githubusercontent.com/rajuankilla/linkedin-data-scraping-langchain-agents/refs/heads/main/static/rajireddy-scrapin.json"
         response = requests.get(
             linkedin_profile_url,
             timeout=10,

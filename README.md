@@ -1,4 +1,4 @@
-# ice_breaker
+# linkedin-data-scraping-langchain-agents 
 
 A repository for learning LangChain🦜🔗  by building a generative ai application (Agents).
 

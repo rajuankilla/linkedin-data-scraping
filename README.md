@@ -60,11 +60,3 @@ Start the flask server
 ```bash
   pipenv run app.py
 ```
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  pipenv run pytest .

@@ -1,6 +1,6 @@
 # ice_breaker
 
-A repository for learning LangChain🦜🔗  by building a generative ai application.
+A repository for learning LangChain🦜🔗  by building a generative ai application (Agents).
 
 This is a web application crawling Linkedin about a person and customizes an ice breaker with them.
  <img title="Linked in Data scraping" alt="This is a web application crawling Linkedin about a person and customizes an ice breaker with them." src="/images/linkedin-demo.png" border="2px solid black">

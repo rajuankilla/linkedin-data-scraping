@@ -2,8 +2,8 @@
 
 A repository for learning LangChain🦜🔗  by building a generative ai application.
 
-This is a web application crawling Linkedin & Twitter data about a person and customizes an ice breaker with them.
- <img title="a title" alt="Alt text" src="/images/linkedin-demo.png" style="border: 2px solid grey;">
+This is a web application crawling Linkedin about a person and customizes an ice breaker with them.
+ <img title="Linked in Data scraping" alt="This is a web application crawling Linkedin about a person and customizes an ice breaker with them." src="/images/linkedin-demo.png" border="2px solid black">
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
